@@ -131,7 +131,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
  
-**1. Tamminga Budds**  
+**1. Tamminga Budds** 
 [![GitHub](https://img.shields.io/badge/GitHub-budds300-blue?logo=github)](https://github.com/budds300)
+
+**2. Edem Dzodzomenyo** [![GitHub](https://img.shields.io/badge/GitHub-dzodzo85-red?logo=github)](https://github.com/dzodzo85)
+
+**3. Susan Sagina Adongo** 
+[![GitHub](https://img.shields.io/badge/GitHub-Sagina07-purple?logo=github)](https://github.com/Sagina07)
 
 
